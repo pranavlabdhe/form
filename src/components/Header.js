@@ -2,7 +2,7 @@ import React from 'react';
 
 const Header = () => (
   <header>
-    <h1>Enquiry Form</h1>
+    <h2>Enquiry Form</h2>
   </header>
 );
 
